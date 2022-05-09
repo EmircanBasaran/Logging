@@ -1,3 +1,4 @@
 # Logging
-Reusable html logging structure and automated mail \n
+Reusable html logging structure and automated mail
+
 Simple backup
